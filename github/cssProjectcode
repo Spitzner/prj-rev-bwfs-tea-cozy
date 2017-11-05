@@ -1,0 +1,166 @@
+#Mission{
+   border-radius: 2px;
+  border: 0px;  background-color: #000000;
+
+  text-shadow: none;
+  background-color: #ffffff;
+   color: #000000;
+
+}
+#Chicken{
+   border-radius: 2px;
+  border: 0px;  background-color: #000000;
+
+  text-shadow: none;
+  background-color: #ffffff;
+   color: #000000;
+
+}
+#Ham{
+   border-radius: 2px;
+  border: 0px;  background-color: #000000;
+
+  text-shadow: none;
+  background-color: #ffffff;
+   color: #000000;
+
+
+}
+.container h2{
+ align-items: baseline;
+   display: flex;
+  justify-content: center;
+ background-color: #ffffff;
+
+}
+
+
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: #000000;
+  text-color: #ffffff;
+}
+li{
+  color: #ffffff;
+  justify-content: flex-end;
+  display: flex;
+  margin: 15px;
+}
+a{
+  margin:10px;
+}
+p{
+    color: #000000;
+   background-color: #ffffff;
+   align-items: center;
+   display: flex;
+  justify-content: center;
+}
+header {
+  padding: 20px 0;
+    background-color: #000000;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+
+  background-color: #000000;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;  background-color: #000000;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;  background-color: #000000;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;  background-color: #000000;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;  background-color: #000000;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;  background-color: #ffffff;;
+  margin: 0;
+  color: #000000;
+   align-items: baseline;
+   display: flex;
+  justify-content: center;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;  background-color: #ffffff;
+  color: #000000;
+   align-items: baseline;
+   display: flex;
+  justify-content: center;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;  background-color: #000000;
+  align-items: center;
+   display: flex;
+  justify-content: flex-end;
+}
+
+.col-md-6 {
+  margin: 0 0 30px;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;  background-color: #000000;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+    background-color: #000000;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;  background-color: #000000;
+}
+
+footer .col-sm-8 {
+  display: flex;  background-color: #000000;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;  background-color: #000000;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;  background-color: #000000;
+}

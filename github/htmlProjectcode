@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tea cozy</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+  <link href='/Users/alexspitzner/github/cssProjectcode' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
+</head>
+<body>
+<header class="container">
+  <div class="row">
+    <h1 class="col-sm-4"><img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-logo.png"/></h1>
+    <nav class="col-sm-8 text-right">
+        <a id="Mission" href="#" role="button">Mission</a>
+      <a id="Chicken" href="#" role="button">Featured Tea</a>
+      <a id="Ham" href="#" role="button">Location</a>
+    </nav>
+ </div>
+</header>
+  <section class="jumbotron">
+    <div class="container">
+
+    </div>
+    <div class="container">
+      <div class="row text-center">
+        <h2>Our Mission</h2>
+        <h3>Handpicked, Artisanally Curated, Free Range, Sustainable, Small Batch, Fair Trade, Organic Tea</h3>
+        <a class="btn btn-primary" href="#" role="button">See all</a>
+        </div>
+    </div>
+  </section>
+ <section class="container">
+     <h2>Special teas </h2>
+  <div class="row">
+    <figure class="col-sm-6">
+      <p>Bedford bizarre tea</p>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg"/>
+    </figure>
+       <figure class="col-sm-6">
+      <p>Berryblitz tea</p>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg"/>
+
+  </div>
+  <div class="row">
+    <figure class="col-sm-6">
+    <p>Myrtle ave tea</p>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-myrtle-ave.jpg"/>
+    </figure>
+    <figure class="col-sm-6">
+    <p>Spiced rum tea</p>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-spiced-rum.jpg"/>
+    </figure>
+  </div>
+</section>
+  <footer class="container">
+    <div class="row">
+      <p class="col-sm-4">Contact The Tea Cozy 2017 </p>
+      <ul class="col-sm-8">
+        <li>
+contact@theteacozy.com  </li>
+        <li>917-555-8904
+  </li>
+
+      </ul>
+    </div>
+  </footer>
+</body>
+</html>
